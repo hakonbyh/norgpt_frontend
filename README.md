@@ -1,9 +1,21 @@
-To start this project:
+# LLM Frontend
 
- ```
- cd src/
- npm i # install dependencies
- npm start
-``` 
+Web application interface for communicating with LLM.
 
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+## Demo
+
+https://hakonbyh.github.io/norgpt_frontend/
+
+## Setup
+
+To run this project locally:
+cd src/
+npm install
+npm start
+Open [http://localhost:3000](http://localhost:3000) in the browser.
+
+
+## Technologies
+
+- React.js
+- Typescript
