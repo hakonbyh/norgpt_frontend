@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/norgpt_frontend/static/css/main.e6c13ad2.css",
+    "main.js": "/norgpt_frontend/static/js/main.ef2c8e0a.js",
+    "static/js/453.ed3810f9.chunk.js": "/norgpt_frontend/static/js/453.ed3810f9.chunk.js",
+    "index.html": "/norgpt_frontend/index.html",
+    "main.e6c13ad2.css.map": "/norgpt_frontend/static/css/main.e6c13ad2.css.map",
+    "main.ef2c8e0a.js.map": "/norgpt_frontend/static/js/main.ef2c8e0a.js.map",
+    "453.ed3810f9.chunk.js.map": "/norgpt_frontend/static/js/453.ed3810f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.ef2c8e0a.js"
+  ]
+}
