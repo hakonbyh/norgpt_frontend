@@ -14,8 +14,8 @@ To run this project locally:
 cd src/
 npm install
 npm start
-Open [http://localhost:3000](http://localhost:3000) in the browser.
 ```
+Open [http://localhost:3000](http://localhost:3000) in the browser.
 
 
 ## Technologies
